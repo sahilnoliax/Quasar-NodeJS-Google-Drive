@@ -1,3 +1,3 @@
-cd ~/home/app/node
+ls
 cd ~/home/app/quasar
 quasar dev
