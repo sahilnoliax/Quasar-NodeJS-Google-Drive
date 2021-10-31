@@ -1,6 +1,6 @@
 cd /node
-apt-get install npm
-npm install
 cd /quasar
+npm install
+npm link @quasar/cli
 quasar dev
 $SHELL
