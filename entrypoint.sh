@@ -1,5 +1,3 @@
-cd node
-npm install
-cd
-cd quasar
+cd ~/node
+cd ~/quasar
 quasar dev
