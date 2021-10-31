@@ -1,5 +1,6 @@
 cd /node
 npm install
+node .
 cd
 cd /quasar
 npm install
