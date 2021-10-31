@@ -1,4 +1,4 @@
 ls
-cd ~/home/app/quasar
+cd /quasar
 quasar dev
 $SHELL
