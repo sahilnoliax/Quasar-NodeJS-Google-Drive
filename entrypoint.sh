@@ -1,5 +1,5 @@
-RUN cd node
-RUN npm install
-RUN cd
-RUN cd quasar
-RUN quasar dev
+cd node
+npm install
+cd
+cd quasar
+quasar dev
